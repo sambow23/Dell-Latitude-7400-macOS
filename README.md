@@ -33,7 +33,8 @@
 
 #### Untested
 - iCloud Services
-- Bluetooth (no kext installed)
+- Bluetooth (no kext installed \ disabled in BIOS)
+- SD Card Reader (disabled in BIOS)
 
 #### Notes
 * Battery life is horrible due to the Thunderbolt controller being constantly on, even when disabled in the BIOS...
