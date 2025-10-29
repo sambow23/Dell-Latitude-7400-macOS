@@ -35,7 +35,7 @@
 - iCloud Services
 - Bluetooth (no kext installed)
 
-### Notes
+#### Notes
 * Battery life is horrible due to the Thunderbolt controller being constantly on, even when disabled in the BIOS...
 
 #### Not working
