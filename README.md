@@ -42,3 +42,7 @@
 #### Not working
 - Fingerprint Reader (disabled in BIOS)
 - NFC/Smartcard Reader (disabled in BIOS)
+
+| Tested macOS Versions |
+| ------------- |
+| macOS Ventura 13.7.6 |
