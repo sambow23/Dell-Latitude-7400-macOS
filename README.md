@@ -24,7 +24,7 @@
 - USB-C Video
 - Trackpad
 - FN Keys
-- Webcam
+- Webcam (disabled in BIOS)
 - Screen Brightness
 - Internal Audio (Speakers, Microphone)
 - Battery percentage
@@ -40,4 +40,5 @@
 * Battery life is horrible due to the Thunderbolt controller being constantly on, even when disabled in the BIOS...
 
 #### Not working
-- You tell me
+- Fingerprint Reader (disabled in BIOS)
+- NFC/Smartcard Reader (disabled in BIOS)
