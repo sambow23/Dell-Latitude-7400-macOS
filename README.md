@@ -29,7 +29,7 @@
 - Internal Audio (Speakers, Microphone)
 - Battery percentage
 - Sleep
-- Thunderbolt (no hotplug yet)
+- Thunderbolt
 
 #### Untested
 - iCloud Services
